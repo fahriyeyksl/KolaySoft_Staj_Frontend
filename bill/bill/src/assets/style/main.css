@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.segments{
+    box-shadow: 5px 10px 30px rgba(36, 36, 255, 0.25) !important;
+    width: 150%;
+    height: 400px!important;
+    border-radius: 50px !important;
+    transform: translate(-20%,0);
+}
+.title__form{
+    font-size: 1rem !important;
+}
+.buttonform , .buttonsignup{
+    top: 0.5rem !important;
+    background: #040475 !important;
+    color: #ffffff !important;
+}
+.buttonform:hover{
+    background: rgba(4, 4, 117, 0.83) !important;
+}

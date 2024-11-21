@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="215e099d-fca0-4916-96bf-fefeb1d8d728" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jyQ2GEmDJRyCrNBLc5hGfx6tN3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FaturaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fahri/IdeaProjects/fatura-master/fatura-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="FaturaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="fatura" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.fatura.FaturaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="215e099d-fca0-4916-96bf-fefeb1d8d728" name="Changes" comment="" />
+      <created>1722356627956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722356627956</updated>
+      <workItem from="1722356629071" duration="304000" />
+      <workItem from="1722356937938" duration="5250000" />
+      <workItem from="1722438477089" duration="1281000" />
+      <workItem from="1722448649635" duration="163000" />
+      <workItem from="1722448818903" duration="273000" />
+      <workItem from="1722449100164" duration="283000" />
+      <workItem from="1722449389893" duration="185000" />
+      <workItem from="1722449581015" duration="1556000" />
+      <workItem from="1722451162822" duration="2267000" />
+      <workItem from="1722509418440" duration="1529000" />
+      <workItem from="1722510953735" duration="358000" />
+      <workItem from="1722511318012" duration="1930000" />
+      <workItem from="1722513481124" duration="102000" />
+      <workItem from="1722513588777" duration="238000" />
+      <workItem from="1722513832558" duration="129000" />
+      <workItem from="1722513966740" duration="228000" />
+      <workItem from="1722514201532" duration="252000" />
+      <workItem from="1722514461139" duration="251000" />
+      <workItem from="1722514718543" duration="2751000" />
+      <workItem from="1722519908436" duration="297000" />
+      <workItem from="1722520211698" duration="131000" />
+      <workItem from="1722520348031" duration="60000" />
+      <workItem from="1722520414206" duration="204000" />
+      <workItem from="1722520626729" duration="136000" />
+      <workItem from="1722520768736" duration="981000" />
+      <workItem from="1722521759461" duration="86000" />
+      <workItem from="1722524389413" duration="86000" />
+      <workItem from="1722524483978" duration="2949000" />
+      <workItem from="1722527468445" duration="302000" />
+      <workItem from="1722527781180" duration="189000" />
+      <workItem from="1722527979084" duration="69000" />
+      <workItem from="1722528135111" duration="77000" />
+      <workItem from="1722528225015" duration="2522000" />
+      <workItem from="1722533892872" duration="4285000" />
+      <workItem from="1722538227266" duration="326000" />
+      <workItem from="1722595365579" duration="7000" />
+      <workItem from="1722595426486" duration="609000" />
+      <workItem from="1722603738459" duration="3298000" />
+      <workItem from="1722607084899" duration="529000" />
+      <workItem from="1722607625626" duration="630000" />
+      <workItem from="1722608864940" duration="2390000" />
+      <workItem from="1722628431859" duration="2142000" />
+      <workItem from="1722677085263" duration="3161000" />
+      <workItem from="1722696328945" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
